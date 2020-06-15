@@ -5,5 +5,5 @@
 MobileNetV2 is the next generation of neural networks of this family, which allows to achieve high recognition accuracy and greater speed.
 
 # Author
-Made by Andrew Denisevich **@andrewD46**
-**course assignment dlcourse.ai**
+Made by Andrew Denisevich **@andrewD46**      
+(*course assignment dlcourse.ai*)
